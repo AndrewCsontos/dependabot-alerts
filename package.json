@@ -1,0 +1,23 @@
+{
+  "name": "kcd-alerts",
+  "version": "1.0.0",
+  "description": "Used to get dependabot alerts on updated repos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewCsontos/kcd-alerts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndrewCsontos/kcd-alerts/issues"
+  },
+  "homepage": "https://github.com/AndrewCsontos/kcd-alerts#readme",
+  "devDependencies": {
+    "eslint-config-kentcdodds": "^14.13.0",
+    "kcd-scripts": "^6.2.3"
+  }
+}

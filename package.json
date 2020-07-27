@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/AndrewCsontos/kcd-alerts#readme",
   "devDependencies": {
-    "eslint-config-kentcdodds": "^14.13.0",
+    "eslint-config-kentcdodds": "^14.14.2",
     "kcd-scripts": "^6.2.3"
   }
 }
